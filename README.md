@@ -15,7 +15,11 @@
 
 </div>
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="Lavender divider"/>
@@ -40,7 +44,11 @@ class Anastasia:
 
 me = Anastasia()
 me.say_hi()
-```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+</p>
+
 
 - 🎓 Student learning programming step by step
 - 💻 Practicing Python, C and SQL
@@ -48,7 +56,11 @@ me.say_hi()
 - 🧩 Turning small ideas into working projects
 - ✨ Always learning something new
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+</p>
+
 
 ## 🛠️ My tech stack
 
@@ -61,7 +73,11 @@ me.say_hi()
 
 </div>
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+</p>
+
 
 ## 🎀 My learning journey
 
@@ -72,10 +88,18 @@ me.say_hi()
 - [ ] Practice SQL and databases
 - [ ] Create my first bigger project
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+</p>
 
 
----
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+</p>
+
 ## 🌷 GitHub stats
 
 <div align="center">
@@ -86,7 +110,11 @@ me.say_hi()
 
 </div>
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+</p>
+
 
 ## 🐈‍⬛ A little reminder
 
