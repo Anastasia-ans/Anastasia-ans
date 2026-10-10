@@ -16,16 +16,9 @@
 </div>
 
 
+## 🌙 About me
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
-</p>
-
-
-
-## 🌙 About me
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F0FF,100:EEF4FF&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=7B68A6" width="100%" alt="My little world"/>
 </p>
 
 ```python
