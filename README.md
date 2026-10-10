@@ -26,7 +26,6 @@ class Anastasia:
         self.languages = ["Python", "C", "SQL"]
         self.interests = [
             "Programming",
-            "Anime & manga",
             "Learning new things"
         ]
         self.goal = "Become a better developer"
@@ -40,7 +39,7 @@ me.say_hi()
 
 - 🎓 Student learning programming step by step
 - 💻 Practicing Python, C and SQL
-- 🌸 Anime, music and cozy aesthetics lover
+- 🌸  cozy aesthetics 
 - 🧩 Turning small ideas into working projects
 - ✨ Always learning something new
 
@@ -53,7 +52,6 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-C9B6F2?style=for-the-badge&logo=python&logoColor=24243A)
 ![C](https://img.shields.io/badge/C-E8C5E5?style=for-the-badge&logo=c&logoColor=24243A)
 ![SQLite](https://img.shields.io/badge/SQLite-C7D9F5?style=for-the-badge&logo=sqlite&logoColor=24243A)
-![Git](https://img.shields.io/badge/Git-F2C6DE?style=for-the-badge&logo=git&logoColor=24243A)
 ![GitHub](https://img.shields.io/badge/GitHub-D9D2F2?style=for-the-badge&logo=github&logoColor=24243A)
 
 </div>
