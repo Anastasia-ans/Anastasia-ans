@@ -17,11 +17,8 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
 </p>
-
-
-
 
 
 
@@ -56,13 +53,9 @@ me.say_hi()
 - 🧩 Turning small ideas into working projects
 - ✨ Always learning something new
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
-</p>
-
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
 </p>
 
 
@@ -81,8 +74,9 @@ me.say_hi()
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
 </p>
+
 
 
 
@@ -97,9 +91,11 @@ me.say_hi()
 
 
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
 </p>
+
 
 
 ## 🌷 GitHub stats
@@ -115,8 +111,9 @@ me.say_hi()
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
 </p>
+
 
 
 
