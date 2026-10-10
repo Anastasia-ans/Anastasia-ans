@@ -21,9 +21,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="Lavender divider"/>
-</p>
+
 
 
 
