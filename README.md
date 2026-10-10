@@ -1,4 +1,8 @@
-## Hi there 👋
+## hola
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anastasia-ans/Anastasia-ans/blob/main/02dccd6886a7f9d792c4d02d25a9a1d6.jpg (https://github.com/Anastasia-ans/Anastasia-ans/blob/main/02dccd6886a7f9d792c4d02d25a9a1d6.jpg)" alt="Banner" width="100%" style="border-radius: 10px;" />
+</p>
 
 <!--
 **Anastasia-ans/Anastasia-ans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
