@@ -26,8 +26,6 @@
 </p>
 
 
-## 🌙 About me
-
 
 ## 🌙 About me
 
