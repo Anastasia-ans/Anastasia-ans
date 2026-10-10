@@ -85,7 +85,7 @@ me.say_hi()
 
 <div align="center">
 
-*「小さな一歩が未来を変える」*
+*「Pequeñas acciones hoy marcan el futuro de nuestro proyecto」*
 
 **One small step can change the future.** ✨
 
