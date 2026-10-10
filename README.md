@@ -69,13 +69,15 @@ me.say_hi()
 
 ---
 
+
+---
 ## 🌷 GitHub stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anastasia-ans&show_icons=true&hide_border=true&bg_color=FFF7FC&title_color=B57EDC&icon_color=C792EA&text_color=6C607A" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anastasia-ans&show_icons=true&hide_border=true&bg_color=F5F0FF&title_color=9B7BD3&icon_color=B39DDB&text_color=706486" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-ans&layout=compact&hide_border=true&bg_color=FFF7FC&title_color=B57EDC&text_color=6C607A" height="165" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-ans&layout=compact&hide_border=true&bg_color=EEF4FF&title_color=8B83C9&text_color=706486" height="165" alt="Most used programming languages"/>
 
 </div>
 
