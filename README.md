@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anastasia-ans/Anastasia-ans/main/02dccd6886a7f9d792c4d02d25a9a1d6.jpg"
        alt="Banner"
-       width="100%"
+       width="80%"
        style="border-radius: 10px;" />
 </p>
 
