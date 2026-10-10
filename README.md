@@ -55,7 +55,7 @@ me.say_hi()
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B7EBD&height=8&section=header" width="100%" alt="Purple line"/>
 </p>
 
 
@@ -71,14 +71,9 @@ me.say_hi()
 
 </div>
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B7EBD&height=8&section=header" width="100%" alt="Purple line"/>
 </p>
-
-
-
 
 ## 🎀 My learning journey
 
@@ -89,13 +84,9 @@ me.say_hi()
 - [ ] Practice SQL and databases
 - [ ] Create my first bigger project
 
-
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B7EBD&height=8&section=header" width="100%" alt="Purple line"/>
 </p>
-
 
 
 ## 🌷 GitHub stats
@@ -108,14 +99,9 @@ me.say_hi()
 
 </div>
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCBFA,100:B8A2E3&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=554078" width="100%" alt="Purple aesthetic card"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B7EBD&height=8&section=header" width="100%" alt="Purple line"/>
 </p>
-
-
-
 
 ## 🐈‍⬛ A little reminder
 
