@@ -96,6 +96,20 @@ me.say_hi()
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9B7EBD&height=8&section=header" width="100%" alt="Purple line"/>
 </p>
 
+🐍 My Contribution Garden
+
+<p align="center">
+  <i>Every little contribution helps me grow 🌱</i>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anastasia-ans/Anastasia-ans/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anastasia-ans/Anastasia-ans/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Anastasia-ans/Anastasia-ans/output/github-snake.svg" alt="Animated contribution snake" width="100%" />
+  </picture>
+</p>
+
 ## 🐈‍⬛ A little reminder
 
 <div align="center">
@@ -103,6 +117,7 @@ me.say_hi()
 *「Pequeñas acciones hoy marcan el futuro de nuestro proyecto」*
 
 **One small step can change the future.** ✨
+
 
 ♡ ──────────────── ♡
 
