@@ -28,6 +28,13 @@
 
 ## 🌙 About me
 
+
+## 🌙 About me
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F0FF,100:EEF4FF&height=90&section=header&text=୨୧%20My%20little%20world%20୨୧&fontSize=24&fontColor=7B68A6" width="100%" alt="My little world"/>
+</p>
+
 ```python
 class Anastasia:
     def __init__(self):
@@ -35,7 +42,8 @@ class Anastasia:
         self.languages = ["Python", "C", "SQL"]
         self.interests = [
             "Programming",
-            "Learning new things"
+            "Learning new things",
+            "Cozy aesthetics"
         ]
         self.goal = "Become a better developer"
 
@@ -44,22 +52,23 @@ class Anastasia:
 
 me = Anastasia()
 me.say_hi()
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
-</p>
-
+```
 
 - 🎓 Student learning programming step by step
 - 💻 Practicing Python, C and SQL
-- 🌸  cozy aesthetics 
+- 🌸 Cozy aesthetics
 - 🧩 Turning small ideas into working projects
 - ✨ Always learning something new
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
+</p>
 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
 </p>
+
 
 
 ## 🛠️ My tech stack
@@ -74,9 +83,11 @@ me.say_hi()
 </div>
 
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
 </p>
+
 
 
 ## 🎀 My learning journey
@@ -89,16 +100,11 @@ me.say_hi()
 - [ ] Create my first bigger project
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
-</p>
-
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
 </p>
+
 
 ## 🌷 GitHub stats
 
@@ -111,9 +117,11 @@ me.say_hi()
 </div>
 
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE4FF,100:DBEAFE&height=4" width="100%" alt="Lavender divider"/>
 </p>
+
 
 
 ## 🐈‍⬛ A little reminder
