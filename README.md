@@ -65,11 +65,6 @@ me.say_hi()
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anastasia-ans&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-ans&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9B7EBD&height=8&section=header" width="100%" alt="Purple line"/>
 </p>
 
